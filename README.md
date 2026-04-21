@@ -289,4 +289,4 @@ This implementation showcases:
 
 ---
 
-**Developed for Tredence Analytics AI Engineering Internship 2025**
+**Developed for Tredence Analytics AI Engineering Internship 2026**
