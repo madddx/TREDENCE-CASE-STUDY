@@ -1,6 +1,5 @@
 """
 Configuration and Constants for Self-Pruning Neural Network
-Modify these values to experiment with different settings
 """
 
 # ============================================================================
