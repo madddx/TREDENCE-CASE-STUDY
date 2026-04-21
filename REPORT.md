@@ -324,5 +324,5 @@ The core insight—using learnable gates with L1 regularization—is simple yet 
 
 ---
 
-**Report generated for Tredence Analytics AI Engineering Internship 2025**  
-**Implementation Date**: 2025
+**Report generated for Tredence Analytics AI Engineering Internship 2026**  
+**Implementation Date**: 2026
