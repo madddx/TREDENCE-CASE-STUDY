@@ -1,7 +1,7 @@
 """
 Self-Pruning Neural Network Implementation
 Case Study for Tredence Analytics AI Engineering Internship
-Author: [Your Name]
+Author: Madhesh H
 Description: A neural network that learns to prune itself during training using gated weights
 and L1 sparsity regularization.
 """
