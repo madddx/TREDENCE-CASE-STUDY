@@ -60,8 +60,7 @@ self-pruning-network/
 └── results/                     # Generated outputs
     ├── results_table.txt        # Summary results
     ├── results.json             # Detailed metrics (JSON)
-    ├── training_curves.png      # 4-panel training visualization
-    └── gate_distribution_*.png  # Gate value histograms
+    └──  training_curves.png      # 4-panel training visualization
 ```
 
 ## 🧠 Core Components
