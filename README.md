@@ -1,5 +1,5 @@
 # Self-Pruning Neural Network
-**Case Study Submission for Tredence Analytics AI Engineering Internship 2025**
+**Case Study Submission for Tredence Analytics AI Engineering Internship 2026**
 
 > A neural network that learns to prune itself during training using gated weights and L1 sparsity regularization.
 
@@ -274,7 +274,7 @@ For questions or issues:
 
 ## 📜 License
 
-This project is submitted as a case study for Tredence Analytics AI Engineering Internship 2025.
+This project is submitted as a case study for Tredence Analytics AI Engineering Internship 2026.
 
 ---
 
@@ -286,8 +286,6 @@ This implementation showcases:
 - **Code Quality**: Clean, documented, production-ready code
 - **Problem Solving**: Elegant approach to network pruning
 - **Analysis**: Comprehensive results interpretation
-
-Perfect for demonstrating AI engineering fundamentals and practical skills! 🚀
 
 ---
 
