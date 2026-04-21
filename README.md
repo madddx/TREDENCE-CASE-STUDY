@@ -24,7 +24,7 @@ The result is a flexible approach to model compression that balances accuracy an
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/self-pruning-network.git
+git clone https://github.com/madddx/TREDENCE-CASE-STUDY.git
 cd self-pruning-network
 
 # Create virtual environment (recommended)
